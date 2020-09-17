@@ -1,0 +1,27 @@
+.full{
+    width:870px;
+    margin:0 auto;
+}
+main{
+    margin-top:20px;
+}
+.top-player img{
+    width:56px;
+}
+.top-blog img{
+    width:177px;
+    height:117px;
+}
+h5{
+    padding-left:10px;
+    font-size:18px;
+}
+.author a::before{
+    content: "By ";
+    color:gray;
+}
+
+
+
+
+
