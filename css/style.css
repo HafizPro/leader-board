@@ -4,6 +4,7 @@
 }
 main{
     margin-top:20px;
+    background-color: white;
 }
 .top-player img{
     width:56px;
@@ -19,6 +20,13 @@ h5{
 .author a::before{
     content: "By ";
     color:gray;
+}
+.card{
+    border:none !important;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+.card-body h5{
+    padding-left:0px;
 }
 
 

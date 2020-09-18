@@ -9,21 +9,7 @@
     .top-player img{
         width:50px;
     }
-    .top-player h5{
-        font-size:17px;
-        color:gray;
-    }
-    .top-blog img{
-        width:170px;
-        height:120px;
-    }
-    .top-blog h5{
-        font-size:20px;
-    }
-    .top-blog a{
-        font-size:15px;
-    }
-    
+    .top-player h5{font-size:17px;color:gray;}.top-blog img{width:170px;height:120px;}.top-blog h5{font-size:20px;}.top-blog {font-size:15px;}.courseArea img{width:150px;}.courseArea h5{font-size: 17px;}
 }
 @media screen and (max-width:620px){
     .full{
